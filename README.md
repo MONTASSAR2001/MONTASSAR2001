@@ -2,19 +2,39 @@
 
 # MONTASSAR ZARAI
 
-### AI / Robotics Engineer
-#### Agentic AI · Autonomous Robotics · Full-Stack Systems
+### `AI / ROBOTICS ENGINEER`
+
+**Agentic AI · Autonomous Robotics · Intelligent Software**
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-111111?style=for-the-badge)](https://montassar-ai-studio-main.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montassar-zarai/)
-[![Email](https://img.shields.io/badge/✉️_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:montassarzarai0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MONTASSAR2001)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;AI+%C3%97+Robotics+%C3%97+Software;LLMs+%C3%97+Agents+%C3%97+ROS+2;From+AI+Models+to+Real-World+Systems" />
+
+<br><br>
+
+<a href="https://montassar-ai-studio-main.vercel.app/">
+<img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-111111?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/montassar-zarai/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:montassarzarai0@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/MONTASSAR2001">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=MONTASSAR2001&style=for-the-badge&color=6E56CF&label=PROFILE+VIEWS" alt="Profile views">
+
+<br><br>
+
+`LLMs` · `RAG` · `Agents` · `MCP` · `ROS 2` · `Nav2` · `SLAM` · `Computer Vision`
 
 </div>
 
@@ -24,109 +44,89 @@
 
 ## `INTELLIGENT SYSTEMS ENGINEERING`
 
-### Building AI systems that can **reason · retrieve · act · interact**
+### Building AI systems that **reason · retrieve · act · interact**
 
 </div>
 
-I'm an **AI/ML & Robotics Engineer** focused on building production-oriented systems at the intersection of AI, robotics, and software.
+<br>
 
-```text
-                     ┌─────────────────────────┐
-                     │    INTELLIGENT SYSTEMS  │
-                     └────────────┬────────────┘
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-             ▼                    ▼                    ▼
-        ┌──────────┐        ┌────────────┐       ┌───────────┐
-        │   AI     │        │  ROBOTICS  │       │ SOFTWARE  │
-        ├──────────┤        ├────────────┤       ├───────────┤
-        │ LLMs     │        │ ROS 2      │       │ Full-Stack│
-        │ RAG      │        │ Nav2       │       │ APIs      │
-        │ Agents   │        │ SLAM       │       │ Cloud     │
-        │ MCP      │        │ Vision     │       │ MLOps     │
-        └──────────┘        └────────────┘       └───────────┘
-```
+I'm an **AI/ML & Robotics Engineer** focused on building production-oriented systems at the intersection of **Artificial Intelligence, Robotics, and Software Engineering**.
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+## 🧠
+
+### ARTIFICIAL INTELLIGENCE
+
+<br>
+
+**Intelligent Software**
+
+<br>
+
+`LLMs`  
+`Agentic AI`  
+`RAG`  
+`MCP`  
+`Tool Calling`
+
+</td>
+
+<td align="center" width="33%">
+
+## 🦾
+
+### AUTONOMOUS ROBOTICS
+
+<br>
+
+**Physical Intelligence**
+
+<br>
+
+`ROS 2`  
+`Nav2`  
+`SLAM`  
+`Computer Vision`  
+`Sensor Fusion`
+
+</td>
+
+<td align="center" width="33%">
+
+## ⚙️
+
+### SOFTWARE SYSTEMS
+
+<br>
+
+**Production Engineering**
+
+<br>
+
+`Full-Stack`  
+`APIs`  
+`Cloud`  
+`MLOps`  
+`Deployment`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 > **I don't just experiment with AI — I build systems around it.**
 
----
-
-# 🧠 What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Agentic AI
-
-Building AI systems capable of reasoning, retrieving knowledge, using tools and executing tasks.
-
-- LLM Applications
-- Multi-Agent Systems
-- LangGraph
-- Advanced RAG
-- Vector Search
-- Reranking
-- MCP
-- Tool Calling
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🦾 Autonomous Robotics
-
-Designing robotic systems that perceive, navigate and interact with the physical world.
-
-- ROS 2
-- Nav2
-- SLAM
-- Computer Vision
-- Sensor Fusion
-- Edge AI
-- Gazebo
-- RViz
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💻 AI Full-Stack
-
-Turning AI capabilities into usable applications and products.
-
-- Python
-- FastAPI
-- React
-- Next.js
-- TypeScript
-- PostgreSQL
-- Supabase
-- REST APIs
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ MLOps & Infrastructure
-
-Building reliable infrastructure for deploying and operating AI systems.
-
-- Docker
-- Docker Compose
-- MLflow
-- CI/CD
-- Ollama
-- vLLM
-- Cloud / Edge
-- Model Deployment
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -254,23 +254,16 @@ Connecting AI agents with real robotic capabilities so natural-language instruct
 
 # 🎯 Current Focus
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  🧠 Agentic AI                                               │
-│     Building systems that reason, retrieve and use tools.   │
-│                                                              │
-│  🦾 AI + Robotics                                            │
-│     Connecting intelligent agents with physical systems.    │
-│                                                              │
-│  🔗 MCP & Tool-Using Agents                                  │
-│     Making AI capable of interacting with real systems.     │
-│                                                              │
-│  ⚙️ Production AI                                            │
-│     Deployment, inference, MLOps and scalable architectures.│
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| | Focus | Description |
+|---|---|---|
+| 🧠 | **Agentic AI** | Building systems that reason, retrieve and use tools. |
+| 🦾 | **AI + Robotics** | Connecting intelligent agents with physical systems. |
+| 🔗 | **MCP & Tool-Using Agents** | Making AI capable of interacting with real systems. |
+| ⚙️ | **Production AI** | Deployment, inference, MLOps and scalable architectures. |
+
+</div>
 
 ---
 
@@ -282,19 +275,31 @@ Connecting AI agents with real robotic capabilities so natural-language instruct
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-111111?style=for-the-badge)](https://montassar-ai-studio-main.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montassar-zarai/)
-
-[![Email](https://img.shields.io/badge/✉️_CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:montassarzarai0@gmail.com)
+<a href="https://montassar-ai-studio-main.vercel.app/">
+<img src="https://img.shields.io/badge/%F0%9F%8C%90_VISIT_MY_PORTFOLIO-111111?style=for-the-badge" />
+</a>
 
 <br><br>
 
-**AI × Robotics × Software**
+<a href="https://www.linkedin.com/in/montassar-zarai/">
+<img src="https://img.shields.io/badge/%F0%9F%92%BC_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-*Turning intelligent ideas into real-world systems.*
+<br><br>
 
-<br>
+<a href="mailto:montassarzarai0@gmail.com">
+<img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+---
+
+### `AI × ROBOTICS × SOFTWARE`
+
+**Turning intelligent ideas into real-world systems.**
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
 
